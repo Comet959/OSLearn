@@ -9,7 +9,7 @@
 
 ## 日程
 ---
-
+> 点击icon跳转
 
 
 [![](https://img.shields.io/badge/dairy-Day1-yellow.svg)](./dairy/10162022.md) : 初始化实验环境、Ubuntu ARM64、手动构建gdb

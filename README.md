@@ -12,8 +12,8 @@
 > 点击icon跳转
 
 
-[![](https://img.shields.io/badge/dairy-Day1-yellow.svg) : 初始化实验环境、Ubuntu ARM64、手动构建gdb](./dairy/10162022.md)
+[![](https://img.shields.io/badge/Oct.16-Day1-yellow.svg) : 初始化实验环境、Ubuntu ARM64、手动构建gdb](./dairy/10162022.md)
 
-[![](https://img.shields.io/badge/dairy-Day2-yellow.svg) : 第一章实验记录](./dairy/10172022.md)
+[![](https://img.shields.io/badge/Oct.17-Day2-yellow.svg) : 第一章实验记录](./dairy/10172022.md)
 
-[![](https://img.shields.io/badge/dairy-Day3-yellow.svg)](./dairy/10182022.md) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)
+[![](https://img.shields.io/badge/Oct.18-Day3-yellow.svg) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)](./dairy/10182022.md)

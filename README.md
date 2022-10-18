@@ -15,4 +15,6 @@
 
 [![](https://img.shields.io/badge/Oct.17-Day2-yellow.svg) : 第一章实验记录](./dairy/10172022.md)
 
-[![](https://img.shields.io/badge/Oct.18-Day3-yellow.svg) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)](./dairy/10182022.md)
+[![](https://img.shields.io/badge/Oct.18-Day3-yellow.svg) : 学习Rust手册到第六章、完成Rustlings小测到enum1](./dairy/10182022.md)
+
+[![](https://img.shields.io/badge/Oct.19-Day4-yellow.svg) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)](./dairy/10192022.md)

@@ -17,4 +17,6 @@
 
 [![](https://img.shields.io/badge/Oct.18-Day3-yellow.svg) : 学习Rust手册到第六章、完成Rustlings小测到enum1](./dairy/10182022.md)
 
-[![](https://img.shields.io/badge/Oct.19-Day4-yellow.svg) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)](./dairy/10192022.md)
+[![](https://img.shields.io/badge/Oct.19-Day4-yellow.svg) : 学习到Rust手册到第九张错误处理, 这部分综合性比较高.](./dairy/10192022.md)
+
+[![](https://img.shields.io/badge/Oct.20-Day5-yellow.svg) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)](./dairy/10192022.md)

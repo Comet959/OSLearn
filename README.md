@@ -19,4 +19,6 @@
 
 [![](https://img.shields.io/badge/Oct.19-Day4-yellow.svg) : 学习到Rust手册到第九张错误处理, 这部分综合性比较高.](./dairy/10192022.md)
 
-[![](https://img.shields.io/badge/Oct.20-Day5-yellow.svg) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)](./dairy/10192022.md)
+[![](https://img.shields.io/badge/Oct.20-Day5-yellow.svg) : 完成了全部Rustlings的测试, 异常处理、并发、原子锁需要反复回顾](./dairy/10202022.md)
+
+[![](https://img.shields.io/badge/Oct.21-Day6-yellow.svg) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)](./dairy/10212022.md)

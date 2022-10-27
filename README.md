@@ -21,4 +21,11 @@
 
 [![](https://img.shields.io/badge/Oct.20-Day5-yellow.svg) : 完成了全部Rustlings的测试, 异常处理、并发、原子锁需要反复回顾](./dairy/10202022.md)
 
-[![](https://img.shields.io/badge/Oct.21-Day6-yellow.svg) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)](./dairy/10212022.md)
+[![](https://img.shields.io/badge/Oct.21-Day6-yellow.svg) : 学习清华大学操作系统课程](./dairy/10212022.md)
+
+[![](https://img.shields.io/badge/Oct.25-Day7_10-yellow.svg) : 最近事情多, 暂停几天学习](./dairy/10222022.md)
+
+[![](https://img.shields.io/badge/Oct.26-Day11-yellow.svg) : 学习清华大学操作系统课程](./dairy/10262022.md)
+
+[![](https://img.shields.io/badge/Oct.27-Day12-yellow.svg) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)](./dairy/10272022.md)
+

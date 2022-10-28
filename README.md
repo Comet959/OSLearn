@@ -27,5 +27,7 @@
 
 [![](https://img.shields.io/badge/Oct.26-Day11-yellow.svg) : 学习清华大学操作系统课程](./dairy/10262022.md)
 
-[![](https://img.shields.io/badge/Oct.27-Day12-yellow.svg) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)](./dairy/10272022.md)
+[![](https://img.shields.io/badge/Oct.27-Day12-yellow.svg) : 完成两个test LAB](./dairy/10272022.md)
+
+[![](https://img.shields.io/badge/Oct.28-Day13-yellow.svg) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)](./dairy/10272022.md)
 

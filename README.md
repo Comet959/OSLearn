@@ -29,5 +29,6 @@
 
 [![](https://img.shields.io/badge/Oct.27-Day12-yellow.svg) : 完成两个test LAB](./dairy/10272022.md)
 
-[![](https://img.shields.io/badge/Oct.28-Day13-yellow.svg) : ![](https://img.shields.io/badge/Stat-Doing-orange.svg)](./dairy/10272022.md)
+[![](https://img.shields.io/badge/Oct.28-Day13-yellow.svg) : none](./dairy/10272022.md)
 
+[![](https://img.shields.io/badge/Nov.1-Day17-yellow.svg) : 完成了LAB3, 通过所有测试](./dairy/01112022.md)

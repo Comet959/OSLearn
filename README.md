@@ -32,3 +32,5 @@
 [![](https://img.shields.io/badge/Oct.28-Day13-yellow.svg) : none](./dairy/10272022.md)
 
 [![](https://img.shields.io/badge/Nov.1-Day17-yellow.svg) : 完成了LAB3, 通过所有测试](./dairy/01112022.md)
+
+[![](https://img.shields.io/badge/Nov.9-Day25-yellow.svg) : 完成了LAB4, 通过所有测试](./dairy/09112022.md)

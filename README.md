@@ -8,5 +8,5 @@ OSLearn 2023
 日程
 -----
 
-[![](https://img.shields.io/badge/Oct.11-Day1-yellow.svg) : 初始化rustlings实验环境](./dairy/day1_20231011.md)
-[![](https://img.shields.io/badge/Oct.23-Day2-yellow.svg) : rustlings 75%](./dairy/day2_20231023.md)
+[![](https://img.shields.io/badge/Oct.11-Record1-yellow.svg) : 初始化rustlings实验环境](./dairy/record1_20231011.md)
+[![](https://img.shields.io/badge/Oct.23-Record2-yellow.svg) : rustlings 75%](./dairy/record2_20231023.md)

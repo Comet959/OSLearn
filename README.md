@@ -12,3 +12,4 @@ OSLearn 2023
 
 [![](https://img.shields.io/badge/Oct.23-Record2-yellow.svg) : rustlings 100%](./dairy/record2_20231023.md)
 
+[![](https://img.shields.io/badge/Nov.03-Record3-yellow.svg) : ch1学习](./dairy/record3_20231103.md)
